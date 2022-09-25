@@ -164,7 +164,7 @@ h2 {
 }
 
 .label:hover {
-  font-size: large;
+  font-size: medium;
   color: orange;
 }
 
@@ -181,12 +181,12 @@ h2 {
 /* For margin practice */
 .flag1 {
   background-color: red;
-  margin-right: 5px;
+  /* TODO */
 }
 
 .flag2 {
   background-color: blue;
-  margin-left: 5px;
+  /* TODO */
 }
 
 /* For padding practice */
@@ -194,5 +194,5 @@ h2 {
   box-sizing: border-box;
   background-color: lightblue;
   background-clip: content-box, padding-box;
-  padding: 30px;
+  /* TODO */
 }
